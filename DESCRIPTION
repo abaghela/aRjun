@@ -1,0 +1,14 @@
+Package: aRjun
+Title: Random Functions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Arjun",
+           family = "Baghela",
+           role = c("aut", "cre"),
+           email = "arjunsbaghela@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
